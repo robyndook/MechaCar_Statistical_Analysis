@@ -37,14 +37,14 @@ Lot 1
 
 
 Lot 2
-- The _p_ = .0006
+- The _p_ = .0005911
 - "A p-value less than 0.05 (typically ≤ 0.05) is statistically significant. It indicates strong evidence against the null hypothesis, as there is less than a 5% probability the null is correct (and the results are random). Therefore, we reject the null hypothesis, and accept the alternative hypothesis."[Source](https://www.simplypsychology.org/p-value.html)
 ![image6](https://github.com/robyndook/MechaCar_Statistical_Analysis/blob/a217faf7a7d55c5ae754e162451d4adb2c369a8e/Images/2022-04-09_11-11-54.jpg)
 
 
 
 Lot 3
-- The _p_ = 1.6
+- The _p_ = .1589
 - "A p-value higher than 0.05 (> 0.05) is not statistically significant and indicates strong evidence for the null hypothesis. This means we retain the null hypothesis and reject the alternative hypothesis. You should note that you cannot accept the null hypothesis, we can only reject the null or fail to reject it." [Source](https://www.simplypsychology.org/p-value.html)
 ![image7](https://github.com/robyndook/MechaCar_Statistical_Analysis/blob/a217faf7a7d55c5ae754e162451d4adb2c369a8e/Images/2022-04-09_11-12-45.jpg)
 
