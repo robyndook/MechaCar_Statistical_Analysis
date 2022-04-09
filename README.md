@@ -47,7 +47,7 @@ Lot 3
 - What metric or metrics are you going to test?
     - Safety Ratings, Horsepower, City and Highway Fuel Efficiency, Maintenance Cost, and Price per Unit
 - What is the null hypothesis or alternative hypothesis?
-    - 
+    - ???
 - What statistical test would you use to test the hypothesis? And why?
     - Using a statistical summary would show how the variables impact the safety ratings for MechaCar and their competitors.
 - What data is needed to run the statistical test?
